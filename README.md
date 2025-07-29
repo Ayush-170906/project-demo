@@ -1,3 +1,4 @@
 # project-demo
-This is my first remo.
-<br>Author - Ayush
+This is my first repo.
+<br>
+Author - Ayush
